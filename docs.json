@@ -22,6 +22,12 @@
             ]
           },
           {
+            "group": "Test",
+            "pages": [
+              "Test-docs/Test_page"
+            ]
+          },
+          {
             "group": "Essentials",
             "pages": [
               "essentials/markdown",
